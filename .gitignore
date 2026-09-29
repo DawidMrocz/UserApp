@@ -311,3 +311,11 @@ Shop/Files/*
 *.log
 .vs/
 .claude/
+/User.Api/appsettings.Development.json
+/User.Api/appsettings.json
+/Task.Api/appsettings.json
+/Task.Api/appsettings.Development.json
+/Gateway.Api/appsettings.Development.json
+/Gateway.Api/appsettings.json
+/Bilboard.Api/appsettings.Development.json
+/Bilboard.Api/appsettings.json
